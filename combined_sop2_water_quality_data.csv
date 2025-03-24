@@ -1,0 +1,124 @@
+projectid,siteid,estuaryname,stationno,samplecollectiondate,samplecollectiontime,samplecollectiontimezone,profile,depth_m,h2otemp,h2otemp_units,airtemp,airtemp_units,do_mgl,do_units,do_percent,salinity,salinity_units,ph_probe,ph_teststrip,tds,tds_units,conductivity,conductivity_units,pressure,pressure_units,wqnotes
+EMPA,CC-ADLC,Arroyo De La Cruz,1,10/14/2024,14:30,PST,surface,0.1,18.8,deg C,-88,Not recorded,7.62,mg/L,82.6,0.26,ppt,-88,-88,-88,Not recorded,463.2,uS/cm,-88,Not recorded,
+EMPA,CC-ADLC,Arroyo De La Cruz,1,10/14/2024,14:30,PST,mid,0.5,18.8,deg C,-88,Not recorded,7.71,mg/L,83.5,0.26,ppt,-88,-88,-88,Not recorded,465,uS/cm,-88,Not recorded,
+EMPA,CC-ADLC,Arroyo De La Cruz,1,10/14/2024,14:30,PST,bottom,0.9,18.8,deg C,-88,Not recorded,6.61,mg/L,71.1,0.26,ppt,-88,-88,-88,Not recorded,475,uS/cm,-88,Not recorded,
+EMPA,CC-ADLC,Arroyo De La Cruz,1,10/14/2024,15:40,PST,surface,0.05,19.6,deg C,-88,Not recorded,8.42,mg/L,93.1,0.25,ppt,-88,-88,-88,Not recorded,463.1,uS/cm,-88,Not recorded,
+EMPA,CC-ADLC,Arroyo De La Cruz,1,10/14/2024,15:40,PST,mid,0.15,19.6,deg C,-88,Not recorded,8.84,mg/L,95.8,0.25,ppt,-88,-88,-88,Not recorded,463.8,uS/cm,-88,Not recorded,
+EMPA,CC-ADLC,Arroyo De La Cruz,1,10/14/2024,15:40,PST,bottom,0.3,19.6,deg C,-88,Not recorded,7.8,mg/L,90.2,0.25,ppt,-88,-88,-88,Not recorded,465.5,uS/cm,-88,Not recorded,
+EMPA,CC-ADLC,Arroyo De La Cruz,2,10/14/2024,16:00,PST,surface,0.5,18.1,deg C,-88,Not recorded,7.32,mg/L,78,0.24,ppt,-88,-88,-88,Not recorded,433.4,uS/cm,-88,Not recorded,
+EMPA,CC-ADLC,Arroyo De La Cruz,2,10/14/2024,16:00,PST,mid,0.2,18,deg C,-88,Not recorded,7.31,mg/L,78.2,0.24,ppt,-88,-88,-88,Not recorded,431.3,uS/cm,-88,Not recorded,
+EMPA,CC-ADLC,Arroyo De La Cruz,2,10/14/2024,16:00,PST,bottom,0.4,18,deg C,-88,Not recorded,7.14,mg/L,75.8,0.24,ppt,-88,-88,-88,Not recorded,431,uS/cm,-88,Not recorded,
+EMPA,CC-ADLC,Arroyo De La Cruz,2,10/14/2024,17:20,PST,surface,0.1,18.8,deg C,-88,Not recorded,8.54,mg/L,92.9,0.25,ppt,-88,-88,-88,Not recorded,448.3,uS/cm,-88,Not recorded,
+EMPA,CC-ADLC,Arroyo De La Cruz,2,10/14/2024,17:20,PST,mid,0.2,18.7,deg C,-88,Not recorded,8.43,mg/L,89.9,0.25,ppt,-88,-88,-88,Not recorded,447.2,uS/cm,-88,Not recorded,
+EMPA,CC-ADLC,Arroyo De La Cruz,2,10/14/2024,17:20,PST,bottom,0.5,18.6,deg C,-88,Not recorded,7.91,mg/L,86.4,0.25,ppt,-88,-88,-88,Not recorded,447,uS/cm,-88,Not recorded,
+EMPA,CC-ADLC,Arroyo De La Cruz,1,10/15/2024,10:55,PST,surface,0.1,17.7,deg C,-88,Not recorded,6.31,mg/L,66.4,0.35,ppt,-88,-88,-88,Not recorded,621,uS/cm,-88,Not recorded,Waves crashing over dunes into estuary
+EMPA,CC-ADLC,Arroyo De La Cruz,1,10/16/2024,10:55,PST,mid,0.5,17.6,deg C,-88,Not recorded,5.17,mg/L,52.4,3.99,ppt,-88,-88,-88,Not recorded,6477,uS/cm,-88,Not recorded,Waves crashing over dunes into estuary
+EMPA,CC-ADLC,Arroyo De La Cruz,1,10/17/2024,10:55,PST,bottom,0.9,17.4,deg C,-88,Not recorded,4.92,mg/L,54.7,5.82,ppt,-88,-88,-88,Not recorded,8742,uS/cm,-88,Not recorded,Waves crashing over dunes into estuary
+EMPA,CC-ADLC,Arroyo De La Cruz,1,10/18/2024,11:05,PST,surface,0.1,17.7,deg C,-88,Not recorded,5.41,mg/L,56.9,0.31,ppt,-88,-88,-88,Not recorded,548,uS/cm,-88,Not recorded,Waves crashing over dunes into estuary
+EMPA,CC-ADLC,Arroyo De La Cruz,1,10/19/2024,11:05,PST,mid,0.5,17.9,deg C,-88,Not recorded,5.86,mg/L,65.9,0.44,ppt,-88,-88,-88,Not recorded,740,uS/cm,-88,Not recorded,Waves crashing over dunes into estuary
+EMPA,CC-ADLC,Arroyo De La Cruz,1,10/20/2024,11:05,PST,bottom,10,17.5,deg C,-88,Not recorded,4.79,mg/L,52.4,5.15,ppt,-88,-88,-88,Not recorded,7782,uS/cm,-88,Not recorded,Waves crashing over dunes into estuary
+EMPA,CC-CAR,Carmel River,2,10/21/2024,11:15,PST,surface,0.1,13.8,deg C,-88,Not recorded,3.77,mg/L,37.6,5.62,PPT,-88,-88,-88,Not recorded,7499,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,2,10/21/2024,11:15,PST,mid,0.8,15.7,deg C,-88,Not recorded,0.4,mg/L,4.1,6.71,PPT,-88,-88,-88,Not recorded,9620,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,2,10/21/2024,11:15,PST,bottom,1.5,15.7,deg C,-88,Not recorded,0.6,mg/L,6.3,7.05,PPT,-88,-88,-88,Not recorded,10096,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,2,10/21/2024,11:39,PST,surface,0.1,15,deg C,-88,Not recorded,1.48,mg/L,15.3,60.9,PPT,-88,-88,-88,Not recorded,8605,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,2,10/21/2024,11:39,PST,mid,0.8,15,deg C,-88,Not recorded,1.1,mg/L,11.2,6.15,PPT,-88,-88,-88,Not recorded,8761,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,2,10/21/2024,11:39,PST,bottom,1.6,15.4,deg C,-88,Not recorded,0.8,mg/L,8.3,6.6,PPT,-88,-88,-88,Not recorded,9395,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,1,10/21/2024,11:54,PST,surface,0.1,15.5,deg C,-88,Not recorded,8.97,mg/L,92.5,3.68,PPT,-88,-88,-88,Not recorded,5474,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,1,10/21/2024,11:54,PST,mid,0.3,15.6,deg C,-88,Not recorded,9.21,mg/L,94.1,3.95,PPT,-88,-88,-88,Not recorded,5887,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,1,10/21/2024,11:54,PST,bottom,0.6,15.7,deg C,-88,Not recorded,8.84,mg/L,93.7,3.93,PPT,-88,-88,-88,Not recorded,5897,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,1,10/21/2024,12:25,PST,surface,0.1,14.4,deg C,-88,Not recorded,9.39,mg/L,94.1,2.3,PPT,-88,-88,-88,Not recorded,3427,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,1,10/21/2024,12:25,PST,mid,0.25,15.1,deg C,-88,Not recorded,9.67,mg/L,97,2.52,PPT,-88,-88,-88,Not recorded,3773,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,1,10/21/2024,12:25,PST,bottom,0.5,16.7,deg C,-88,Not recorded,9.11,mg/L,98.1,4.37,PPT,-88,-88,-88,Not recorded,6861,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,3,10/22/2024,11:39,PST,surface,0.1,15.8,deg C,-88,Not recorded,7.64,mg/L,81,4.52,PPT,-88,-88,-88,Not recorded,6667,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,3,10/22/2024,11:39,PST,mid,0.4,15.7,deg C,-88,Not recorded,8.42,mg/L,87,4.66,PPT,-88,-88,-88,Not recorded,6758,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,3,10/22/2024,11:39,PST,bottom,0.9,16.1,deg C,-88,Not recorded,8.03,mg/L,84.5,5.15,PPT,-88,-88,-88,Not recorded,7538,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,3,10/22/2024,13:15,PST,surface,0.1,16,deg C,-88,Not recorded,9.72,mg/L,101.3,3.86,PPT,-88,-88,-88,Not recorded,5748,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,3,10/22/2024,13:15,PST,mid,0.4,16.2,deg C,-88,Not recorded,9.9,mg/L,103.8,4.32,PPT,-88,-88,-88,Not recorded,6215,uS/cm,-88,Not recorded ,
+EMPA,CC-CAR,Carmel River,3,10/22/2024,13:15,PST,bottom,0.9,17.8,deg C,-88,Not recorded,6.87,mg/L,77,6.75,PPT,-88,-88,-88,Not recorded,10238,uS/cm,-88,Not recorded ,
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,7:57,PST,surface,0.1,12,deg C,-88,Not Recorded,7.02,mg/L,82.4,33.38,ppt,-88,-88,-88,Not Recorded,39229,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,7:57,PST,mid,0.4,12,deg C,-88,Not Recorded,6.9,mg/L,83.7,33.39,ppt,-88,-88,-88,Not Recorded,39239,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,7:57,PST,deep,0.7,12.9,deg C,-88,Not Recorded,6.86,mg/L,81,33.3,ppt,-88,-88,-88,Not Recorded,39097,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,10:00,PST,surface,0.1,12.7,deg C,-88,Not Recorded,6.97,mg/L,81.2,33.37,ppt,-88,-88,-88,Not Recorded,38991,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,10:00,PST,mid,0.4,12.7,deg C,-88,Not Recorded,7.06,mg/L,82.1,33.38,ppt,-88,-88,-88,Not Recorded,38955,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,10:00,PST,deep,0.7,12.6,deg C,-88,Not Recorded,7.05,mg/L,82.7,33.33,ppt,-88,-88,-88,Not Recorded,38930,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,11:07,PST,surface,0.1,14.9,deg C,-88,Not Recorded,7.69,mg/L,93.5,33.69,ppt,-88,-88,-88,Not Recorded,41361,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,11:07,PST,mid,0.4,14.8,deg C,-88,Not Recorded,7.54,mg/L,91.5,33.69,ppt,-88,-88,-88,Not Recorded,41335,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,11:07,PST,deep,0.8,14.8,deg C,-88,Not Recorded,7.85,mg/L,95.5,33.68,ppt,-88,-88,-88,Not Recorded,41309,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,13:18,PST,surface,0.2,17,deg C,-88,Not Recorded,10.63,mg/L,137.2,33.89,ppt,-88,-88,-88,Not Recorded,43732,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,13:18,PST,mid,0.15,17.2,deg C,-88,Not Recorded,11.91,mg/L,152.1,33.98,ppt,-88,-88,-88,Not Recorded,43899,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,13:18,PST,deep,0.1,17.2,deg C,-88,Not Recorded,12.03,mg/L,152.9,33.98,ppt,-88,-88,-88,Not Recorded,43918,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,10:34,PST,surface,0.1,16.2,deg C,-88,Not Recorded,6.47,mg/L,80.4,33.69,ppt,-88,-88,-88,Not Recorded,42647,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,10:34,PST,mid,0.4,16.2,deg C,-88,Not Recorded,6.65,mg/L,83.3,33.7,ppt,-88,-88,-88,Not Recorded,42650,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,10:34,PST,deep,0.7,16.2,deg C,-88,Not Recorded,6.82,mg/L,85.7,33.69,ppt,-88,-88,-88,Not Recorded,42638,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,12:05,PST,surface,0.1,16.7,deg C,-88,Not Recorded,7.3,mg/L,91.6,33.72,ppt,-88,-88,-88,Not Recorded,43086,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,12:05,PST,mid,0.4,16.6,deg C,-88,Not Recorded,7.46,mg/L,94.1,33.72,ppt,-88,-88,-88,Not Recorded,43066,uS/cm,-88,Not Recorded,
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,12:05,PST,deep,0.7,16.6,deg C,-88,Not Recorded,7.12,mg/L,914,33.71,ppt,-88,-88,-88,Not Recorded,43047,uS/cm,-88,Not Recorded,
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,10:33,PST,surface,0.1,15.8,deg C,-88,Not recorded,4.79,mg/L,58.2,30.68,ppt,-88,-88,-88,Not recorded,38806,uS/cm,-88,not recorded,
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,10:33,PST,mid,0.2,15.7,deg C,-88,Not recorded,4.82,mg/L,59,30.72,ppt,-88,-88,-88,Not recorded,38815,uS/cm,-88,not recorded,
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,10:33,PST,bottom,0.4,15.7,deg C,-88,Not recorded,4.4,mg/L,53.4,30.7,ppt,-88,-88,-88,Not recorded,38796,uS/cm,-88,not recorded,
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,12:45,PST,surface,0.1,18.3,deg C,-88,Not recorded,8.2,mg/L,105.1,30.67,ppt,-88,-88,-88,Not recorded,41086,uS/cm,-88,not recorded,
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,12:45,PST,mid,0.15,18.3,deg C,-88,Not recorded,8.26,mg/L,105.7,30.74,ppt,-88,-88,-88,Not recorded,41109,uS/cm,-88,not recorded,
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,12:45,PST,bottom,0.3,18.4,deg C,-88,Not recorded,7.84,mg/L,100.1,30.72,ppt,-88,-88,-88,Not recorded,41134,uS/cm,-88,not recorded,
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,10:30,PST,surface,0.1,19.2,deg C,-88,Not recorded,7.23,mg/L,93.4,31.11,ppt,-88,-88,-88,Not recorded,42428,uS/cm,-88,not recorded,
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,10:30,PST,mid,0.23,19.2,deg C,-88,Not recorded,6.91,mg/L,91.5,31.12,ppt,-88,-88,-88,Not recorded,42440,uS/cm,-88,not recorded,
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,10:30,PST,bottom,0.35,19.2,deg C,-88,Not recorded,5.71,mg/L,74.2,31.11,ppt,-88,-88,-88,Not recorded,42395,uS/cm,-88,not recorded,
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,12:50,PST,surface,0.1,21.5,deg C,-88,Not recorded,9.98,mg/L,137.3,31.48,ppt,-88,-88,-88,Not recorded,44947,uS/cm,-88,not recorded,
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,12:50,PST,mid,0.2,21.5,deg C,-88,Not recorded,11.37,mg/L,154.1,31.62,ppt,-88,-88,-88,Not recorded,45166,uS/cm,-88,not recorded,
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,12:50,PST,bottom,0.35,21.5,deg C,-88,Not recorded,9.68,mg/L,134.1,31.73,ppt,-88,-88,-88,Not recorded,45329,uS/cm,-88,not recorded,
+EMPA,CC-MCS,Moro Cojo Slough,3,10/2/2024,0:00,PST,surface,0.1,19.5,deg C,-88,Not recorded,8.99,mg/L,120.7,37.2,ppt,-88,-88,-88,Not recorded,50002,uS/cm,-88,not recorded,
+EMPA,CC-MCS,Moro Cojo Slough,3,10/2/2024,0:00,PST,mid,0.2,19.6,deg C,-88,Not recorded,6.59,mg/L,87.7,37.46,ppt,-88,-88,-88,Not recorded,50390,uS/cm,-88,not recorded,
+EMPA,CC-MCS,Moro Cojo Slough,3,10/2/2024,0:00,PST,bottom,0.4,19.6,deg C,-88,Not recorded,0.31,mg/L,4.8,37.73,ppt,-88,-88,-88,Not recorded,50702,uS/cm,-88,not recorded,
+EMPA,CC-MOR,Morro Bay,1,10/17/2024,10:13,PST,surface,0.1,15,deg C,-88,Not Recorded,7.47,mg/L,91.1,33.33,ppt,-88,-88,-88,Not Recorded,41047,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,1,10/17/2024,10:13,PST,mid,0.2,15,deg C,-88,Not Recorded,7.33,mg/L,89.2,33.29,ppt,-88,-88,-88,Not Recorded,41019,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,1,10/17/2024,10:13,PST,deep,0.3,15,deg C,-88,Not Recorded,7.35,mg/L,89.6,33.29,ppt,-88,-88,-88,Not Recorded,41046,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,1,10/17/2024,11:35,PST,surface,0.1,16.2,deg C,-88,Not Recorded,7.6,mg/L,94.8,33.25,ppt,-88,-88,-88,Not Recorded,42107,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,1,10/17/2024,11:35,PST,mid,0.15,16.5,deg C,-88,Not Recorded,7.72,mg/L,96.3,33.24,ppt,-88,-88,-88,Not Recorded,41980,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,1,10/17/2024,11:35,PST,deep,0.3,16.1,deg C,-88,Not Recorded,7.95,mg/L,98,33.21,ppt,-88,-88,-88,Not Recorded,41980,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,2,10/15/2024,14:55,PST,surface,0.1,19.5,deg C,-88,Not Recorded,7.33,mg/L,94.3,29.27,ppt,-88,-88,-88,Not Recorded,40437,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,2,10/15/2024,14:55,PST,mid,0.3,19.5,deg C,-88,Not Recorded,7.26,mg/L,95.1,29.28,ppt,-88,-88,-88,Not Recorded,40429,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,2,10/15/2024,14:55,PST,deep,0.6,19.5,deg C,-88,Not Recorded,6.87,mg/L,90.7,29.3,ppt,-88,-88,-88,Not Recorded,40391,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,2,10/16/2024,14:48,PST,surface,0.1,19,deg C,-88,Not Recorded,6.45,mg/L,82.2,28.05,ppt,-88,-88,-88,Not Recorded,38145,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,2,10/16/2024,14:48,PST,mid,0.4,19.5,deg C,-88,Not Recorded,6.44,mg/L,85.5,30.22,ppt,-88,-88,-88,Not Recorded,40900,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,2,10/16/2024,14:48,PST,deep,0.8,20.9,deg C,-88,Not Recorded,6.9,mg/L,92.8,31.11,ppt,-88,-88,-88,Not Recorded,43890,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,3,10/15/2024,10:03,PST,surface,0.1,16.4,deg C,-88,Not Recorded,5.45,mg/L,67.9,32.99,ppt,-88,-88,-88,Not Recorded,41982,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,3,10/15/2024,10:03,PST,mid,0.4,16.4,deg C,-88,Not Recorded,5.22,mg/L,66.3,32.99,ppt,-88,-88,-88,Not Recorded,41969,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,3,10/15/2024,10:03,PST,deep,0.8,16.3,deg C,-88,Not Recorded,5.17,mg/L,64.5,32.98,ppt,-88,-88,-88,Not Recorded,41944,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,3,10/15/2024,12:18,PST,surface,0.1,18.1,deg C,-88,Not Recorded,6.68,mg/L,85.7,32.9,ppt,-88,-88,-88,Not Recorded,43580,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,3,10/15/2024,12:18,PST,mid,0.3,18,deg C,-88,Not Recorded,65.6,mg/L,85,32.93,ppt,-88,-88,-88,Not Recorded,43421,mS/cm,-88,Not Recorded,
+EMPA,CC-MOR,Morro Bay,3,10/15/2024,12:18,PST,deep,0.6,17.6,deg C,-88,Not Recorded,6.68,mg/L,88.1,32.99,ppt,-88,-88,-88,Not Recorded,43105,mS/cm,-88,Not Recorded,
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,13:57,PST,Surface,0.1,17.5,deg C,-88,Not recorded,9.17,mg/L,118.1,33.08,PPT,-88,-88,-88,Not recorded,43188,uS/cm,-88,Not recorded,
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,13:57,PST,Mid,0.4,17.4,deg C,-88,Not recorded,9.45,mg/L,120.3,33.11,PPT,-88,-88,-88,Not recorded,43084,uS/cm,-88,Not recorded,
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,13:57,PST,Bottom,0.7,17,deg C,-88,Not recorded,9.55,mg/L,120.5,33.19,PPT,-88,-88,-88,Not recorded,42819,uS/cm,-88,Not recorded,
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,15:00,PST,Surface,0.1,17.7,deg C,-88,Not recorded,9.67,mg/L,123.6,33.18,PPT,-88,-88,-88,Not recorded,43488,uS/cm,-88,Not recorded,
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,15:00,PST,Mid,-88,-88,Not recorded,-88,Not recorded,-88,Not recorded,-88,-88,Not recorded,-88,-88,-88,Not recorded,-88,Not recorded,-88,Not recorded,too shallow
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,15:00,PST,Bottom,0.18,17.7,deg C,-88,Not recorded,9.46,mg/L,122.7,33.17,PPT,-88,-88,-88,Not recorded,43480,uS/cm,-88,Not recorded,
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,11:05,PST,Surface,0.05,17.1,deg C,-88,Not recorded,8.98,mg/L,111.7,31.19,PPT,-88,-88,-88,Not recorded,40574,uS/cm,-88,Not recorded,
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,11:05,PST,Mid,0.1,17,deg C,-88,Not recorded,9.2,mg/L,115,31.17,PPT,-88,-88,-88,Not recorded,40501,uS/cm,-88,Not recorded,
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,11:05,PST,Bottom,0.18,17.1,deg C,-88,Not recorded,9.39,mg/L,118.7,31.08,PPT,-88,-88,-88,Not recorded,40435,uS/cm,-88,Not recorded,
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,12:57,PST,Surface,0.1,17.2,deg C,-88,Not recorded,8.2,mg/L,103.3,33.12,PPT,-88,-88,-88,Not recorded,42945,uS/cm,-88,Not recorded,
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,12:57,PST,Mid,0.3,17,deg C,-88,Not recorded,8.17,mg/L,103.4,33.2,PPT,-88,-88,-88,Not recorded,42810,uS/cm,-88,Not recorded,
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,12:57,PST,Bottom,0.5,17,deg C,-88,Not recorded,8.39,mg/L,104.6,33.22,PPT,-88,-88,-88,Not recorded,42845,uS/cm,-88,Not recorded,
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,11:25,PST,Surface,0.1,18.3,deg C,-88,Not recorded,17.49,mg/L,208,20.76,PPT,-88,-88,-88,Not recorded,29845,uS/cm,-88,Not recorded,
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,11:25,PST,Mid,0.45,17.2,deg C,-88,Not recorded,5.95,mg/L,73.8,31.75,PPT,-88,-88,-88,Not recorded,41503,uS/cm,-88,Not recorded,
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,11:25,PST,Bottom,0.8,16.4,deg C,-88,Not recorded,6.35,mg/L,79.5,32.89,PPT,-88,-88,-88,Not recorded,41878,uS/cm,-88,Not recorded,
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,14:40,PST,Surface,0.1,18,deg C,-88,Not recorded,10.18,mg/L,129.7,33.23,PPT,-88,-88,-88,Not recorded,43854,uS/cm,-88,Not recorded,
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,14:40,PST,Mid,0.4,17.9,deg C,-88,Not recorded,9.83,mg/L,126.7,33.23,PPT,-88,-88,-88,Not recorded,43186,uS/cm,-88,Not recorded,
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,14:40,PST,Bottom,0.85,17.6,deg C,-88,Not recorded,9.01,mg/L,113.7,33.42,PPT,-88,-88,-88,Not recorded,43543,uS/cm,-88,Not recorded,
+EMPA,CC-SALI,Salinas River,1,11/5/2024,12:00,PST,surface,0.1,14.7,deg C,-88,Not recorded,6.84,mg/L,68.1,1,ppt,-88,-88,-88,Not recorded,1569,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,1,11/5/2024,12:05,PST,mid,0.4,14.6,deg C,-88,Not recorded,6.97,mg/L,70.7,1.2,ppt,-88,-88,-88,Not recorded,1586,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,1,11/5/2024,12:10,PST,bottom,0.9,14.5,deg C,-88,Not recorded,6.85,mg/L,71.2,1.02,ppt,-88,-88,-88,Not recorded,1583,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,1,11/5/2024,13:00,PST,surface,0.1,14.9,deg C,-88,Not recorded,6.75,mg/L,67.1,1,ppt,-88,-88,-88,Not recorded,1571,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,1,11/5/2024,13:05,PST,mid,0.4,14.6,deg C,-88,Not recorded,6.63,mg/L,65.7,1.01,ppt,-88,-88,-88,Not recorded,1575,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,1,11/5/2024,13:10,PST,bottom,0.8,14.6,deg C,-88,Not recorded,6.96,mg/L,68.6,1.01,ppt,-88,-88,-88,Not recorded,1584,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,2,11/4/2024,12:00,PST,surface,0.1,15.5,deg C,-88,Not recorded,7.32,mg/L,74.5,0.87,ppt,-88,-88,-88,Not recorded,1400,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,2,11/4/2024,12:05,PST,mid,0.5,15.4,deg C,-88,Not recorded,7.19,mg/L,72.4,0.87,ppt,-88,-88,-88,Not recorded,1400,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,2,11/4/2024,12:10,PST,bottom,0.95,15.4,deg C,-88,Not recorded,7.11,mg/L,71.9,0.87,ppt,-88,-88,-88,Not recorded,1398,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,2,11/4/2024,13:00,PST,surface,0.1,15.4,deg C,-88,Not recorded,7.05,mg/L,70.9,0.87,ppt,-88,-88,-88,Not recorded,1394,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,2,11/4/2024,13:05,PST,mid,0.5,15.5,deg C,-88,Not recorded,7.08,mg/L,71.9,0.87,ppt,-88,-88,-88,Not recorded,1400,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,2,11/4/2024,13:10,PST,bottom,1,15.5,deg C,-88,Not recorded,6.87,mg/L,69.6,0.87,ppt,-88,-88,-88,Not recorded,1398,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,3,11/4/2024,12:00,PST,surface,0.1,15.4,deg C,-88,Not recorded,7.13,mg/L,71.9,0.86,ppt,-88,-88,-88,Not recorded,1378,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,3,11/4/2024,12:05,PST,mid,0.9,14.9,deg C,-88,Not recorded,6.63,mg/L,67,0.86,ppt,-88,-88,-88,Not recorded,1362,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,3,11/4/2024,12:10,PST,bottom,2,14.4,deg C,-88,Not recorded,6.09,mg/L,60.6,0.92,ppt,-88,-88,-88,Not recorded,1446,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,3,11/4/2024,13:00,PST,surface,0.1,15.4,deg C,-88,Not recorded,6.69,mg/L,67.4,0.86,ppt,-88,-88,-88,Not recorded,1388,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,3,11/4/2024,13:05,PST,mid,0.4,15.4,deg C,-88,Not recorded,6.9,mg/L,69,0.86,ppt,-88,-88,-88,Not recorded,1386,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"
+EMPA,CC-SALI,Salinas River,3,11/4/2024,13:10,PST,bottom,0.7,15.3,deg C,-88,Not recorded,6.7,mg/L,67.3,0.86,ppt,-88,-88,-88,Not recorded,1372,uS/cm,-88,Not recorded,"Time estimated, not recorded at collection"

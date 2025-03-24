@@ -1,0 +1,605 @@
+projectid,siteid,estuaryname,stationno,samplecollectiondate,surveytype,netreplicate,scientificname,commonname,status,replicate,length_mm,lengthnotes,identificationnotes,length_category,h2otemp,do_mgl,do_percent,salinity,conductivity
+EMPA,CC-CAR,Carmel River ,1,10/21/2024,beach seine ,3,Gasterosteus aculeatus,threespine stickleback,,1.0,26.0,,,Small,15.299999999999999,5.278333333333333,54.35833333333333,9.481666666666667,7107.916666666667
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,1,Gasterosteus aculeatus,threespine stickleback,,1.0,25.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,1,Gasterosteus aculeatus,threespine stickleback,,2.0,16.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,1,Gasterosteus aculeatus,threespine stickleback,,3.0,24.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,1,Gasterosteus aculeatus,threespine stickleback,,4.0,20.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,1,Gasterosteus aculeatus,threespine stickleback,,5.0,23.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,1,Gasterosteus aculeatus,threespine stickleback,,6.0,23.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,1,Gasterosteus aculeatus,threespine stickleback,,7.0,25.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,1,Gasterosteus aculeatus,threespine stickleback,,8.0,28.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,1,Gasterosteus aculeatus,threespine stickleback,,9.0,28.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,1,Gasterosteus aculeatus,threespine stickleback,,10.0,29.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,2,Gasterosteus aculeatus,threespine stickleback,,1.0,21.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,2,Gasterosteus aculeatus,threespine stickleback,,2.0,18.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,2,Gasterosteus aculeatus,threespine stickleback,,3.0,20.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,2,Gasterosteus aculeatus,threespine stickleback,,4.0,31.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,3,Gasterosteus aculeatus,threespine stickleback,,1.0,20.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,3,Gasterosteus aculeatus,threespine stickleback,,2.0,33.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,3,Gasterosteus aculeatus,threespine stickleback,,3.0,18.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,3,Gasterosteus aculeatus,threespine stickleback,,4.0,24.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,3,Gasterosteus aculeatus,threespine stickleback,,5.0,20.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-CAR,Carmel River ,3,10/22/2024,beach seine ,3,Gasterosteus aculeatus,threespine stickleback,,6.0,21.0,,,Small,16.266666666666666,8.43,89.10000000000001,4.876666666666666,7194.0
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,1,Cymatogaster aggregata,shiner surfperch,native,1.0,62.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,1,Cymatogaster aggregata,shiner surfperch,native,2.0,53.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,1,Syngnathus leptorhynchus,bay pipefish,native,1.0,193.0,,,Large,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,1,Syngnathus leptorhynchus,bay pipefish,native,2.0,225.0,,,Large,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,1,Clevelandia ios,arrow goby,native,1.0,37.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,2,Clevelandia ios,arrow goby,native,1.0,47.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Syngnathus leptorhynchus,bay pipefish,native,1.0,223.0,,,Large,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Syngnathus leptorhynchus,bay pipefish,native,2.0,192.0,,,Large,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Syngnathus leptorhynchus,bay pipefish,native,3.0,169.0,,,Large,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Syngnathus leptorhynchus,bay pipefish,native,4.0,199.0,,,Large,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Syngnathus leptorhynchus,bay pipefish,native,5.0,148.0,,,Large,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Syngnathus leptorhynchus,bay pipefish,native,6.0,143.0,,,Large,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Syngnathus leptorhynchus,bay pipefish,native,7.0,121.0,,,Large,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Syngnathus leptorhynchus,bay pipefish,native,8.0,158.0,,,Large,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Syngnathus leptorhynchus,bay pipefish,native,9.0,143.0,,,Large,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Syngnathus leptorhynchus,bay pipefish,native,10.0,81.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Atherinops affinis,topsmelt silverside,native,1.0,98.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Atherinops affinis,topsmelt silverside,native,2.0,83.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Atherinops affinis,topsmelt silverside,native,3.0,82.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Atherinops affinis,topsmelt silverside,native,4.0,90.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Atherinops affinis,topsmelt silverside,native,5.0,79.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Atherinops affinis,topsmelt silverside,native,6.0,72.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Atherinops affinis,topsmelt silverside,native,7.0,67.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Atherinops affinis,topsmelt silverside,native,8.0,44.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Atherinops affinis,topsmelt silverside,native,9.0,44.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Gasterosteus aculeatus,threespine stickleback,native,1.0,44.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Gasterosteus aculeatus,threespine stickleback,native,2.0,39.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,1,10/29/2024,beach seine,5,Clevelandia ios,arrow goby,native,1.0,41.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,1,Atherinops affinis,topsmelt silverside,native,1.0,51.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,1,Atherinops affinis,topsmelt silverside,native,2.0,63.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,1,Atherinops affinis,topsmelt silverside,native,3.0,46.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,1.0,85.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,2.0,77.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,3.0,76.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,4.0,46.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,5.0,67.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,6.0,53.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,7.0,41.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,8.0,72.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,9.0,41.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,10.0,53.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,2,Clevelandia ios,arrow goby,native,1.0,44.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,1.0,95.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,2.0,69.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,3.0,104.0,,,Large,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,4.0,46.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,5.0,40.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,6.0,71.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,7.0,34.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,8.0,68.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,9.0,41.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,10.0,69.0,,,Medium,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,3,Clevelandia ios,arrow goby,native,1.0,46.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,3,Clevelandia ios,arrow goby,native,2.0,46.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,2,10/29/2024,beach seine,3,Clevelandia ios,arrow goby,native,3.0,32.0,,,Small,14.233333333333334,8.2925,101.31666666666666,33.58833333333333,40832.916666666664
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,beach seine,1,Clevelandia ios,arrow goby,native,1.0,42.0,,,Small,16.416666666666668,6.97,224.85,33.705,42855.666666666664
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,beach seine,1,Clevelandia ios,arrow goby,native,2.0,38.0,,,Small,16.416666666666668,6.97,224.85,33.705,42855.666666666664
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,beach seine,1,Clevelandia ios,arrow goby,native,3.0,45.0,,,Small,16.416666666666668,6.97,224.85,33.705,42855.666666666664
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,beach seine,1,Clevelandia ios,arrow goby,native,4.0,42.0,,,Small,16.416666666666668,6.97,224.85,33.705,42855.666666666664
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,1.0,48.0,,,Small,16.416666666666668,6.97,224.85,33.705,42855.666666666664
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,2.0,50.0,,,Medium,16.416666666666668,6.97,224.85,33.705,42855.666666666664
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,beach seine,2,Clevelandia ios,arrow goby,native,1.0,43.0,,,Small,16.416666666666668,6.97,224.85,33.705,42855.666666666664
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,beach seine,2,Clevelandia ios,arrow goby,native,2.0,47.0,,,Small,16.416666666666668,6.97,224.85,33.705,42855.666666666664
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,1.0,67.0,,,Medium,16.416666666666668,6.97,224.85,33.705,42855.666666666664
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,2.0,67.0,,,Medium,16.416666666666668,6.97,224.85,33.705,42855.666666666664
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,3.0,50.0,,,Medium,16.416666666666668,6.97,224.85,33.705,42855.666666666664
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,4.0,49.0,,,Small,16.416666666666668,6.97,224.85,33.705,42855.666666666664
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,5.0,64.0,,,Medium,16.416666666666668,6.97,224.85,33.705,42855.666666666664
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,6.0,43.0,,,Small,16.416666666666668,6.97,224.85,33.705,42855.666666666664
+EMPA,CC-ELK,Elkhorn Slough,3,10/28/2024,beach seine,3,Clevelandia ios,arrow goby,native,1.0,42.0,,,Small,16.416666666666668,6.97,224.85,33.705,42855.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Leptocottus armatus,Pacific staghorn sculpin,native,1.0,151.0,,,Large,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Cottus asper,prickly sculpin,native,1.0,53.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Cottus asper,prickly sculpin,native,2.0,72.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Cottus asper,prickly sculpin,native,3.0,63.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Cottus asper,prickly sculpin,native,4.0,66.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Gasterosteus aculeatus,threespine stickleback,native,1.0,37.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Gasterosteus aculeatus,threespine stickleback,native,2.0,22.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Gasterosteus aculeatus,threespine stickleback,native,3.0,24.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Hemigrapsus oregonensis,yellow shore crab,native,1.0,22.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Carcinus maenas,European green crab,invasive,1.0,61.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Carcinus maenas,European green crab,invasive,2.0,58.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Carcinus maenas,European green crab,invasive,3.0,48.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Carcinus maenas,European green crab,invasive,4.0,59.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Carcinus maenas,European green crab,invasive,5.0,50.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Carcinus maenas,European green crab,invasive,6.0,54.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Carcinus maenas,European green crab,invasive,7.0,49.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Carcinus maenas,European green crab,invasive,8.0,55.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Carcinus maenas,European green crab,invasive,9.0,60.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,1,Carcinus maenas,European green crab,invasive,10.0,48.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,1.0,182.0,,,Large,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,2.0,159.0,,,Large,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,3.0,166.0,,,Large,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,4.0,164.0,,,Large,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,5.0,154.0,,,Large,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,6.0,155.0,,,Large,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,7.0,163.0,,,Large,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Acanthogobius flavimanus,yellowfin goby,invasive,1.0,120.0,,,Large,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Leptocottus armatus,Pacific staghorn sculpin,native,1.0,117.0,,,Large,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Clevelandia ios,arrow goby,native,1.0,47.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Gasterosteus aculeatus,threespine stickleback,native,1.0,39.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Gasterosteus aculeatus,threespine stickleback,native,2.0,18.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Carcinus maenas,European green crab,invasive,1.0,59.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Carcinus maenas,European green crab,invasive,2.0,69.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Carcinus maenas,European green crab,invasive,3.0,68.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Carcinus maenas,European green crab,invasive,4.0,55.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Carcinus maenas,European green crab,invasive,5.0,50.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Carcinus maenas,European green crab,invasive,6.0,57.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Carcinus maenas,European green crab,invasive,7.0,55.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Carcinus maenas,European green crab,invasive,8.0,59.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Carcinus maenas,European green crab,invasive,9.0,61.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,2,Carcinus maenas,European green crab,invasive,10.0,55.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,1.0,40.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,2.0,37.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,3.0,46.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,4.0,34.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,5.0,39.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,6.0,40.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,7.0,41.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,8.0,31.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,9.0,36.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,10.0,34.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,1.0,56.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,2.0,47.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,3.0,39.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,4.0,32.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,5.0,46.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,6.0,61.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,7.0,50.0,,,Medium,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,8.0,42.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,9.0,41.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,10.0,41.0,,,Small,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Acanthogobius flavimanus,yellowfin goby,invasive,1.0,137.0,,,Large,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Acanthogobius flavimanus,yellowfin goby,invasive,2.0,142.0,,,Large,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,1,9/30/2024,beach seine,3,Leptocottus armatus,Pacific staghorn sculpin,native,1.0,123.0,,,Large,17.033333333333335,6.385000000000001,80.25,30.705,39957.666666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Atherinops affinis,topsmelt silverside,native,1.0,65.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Atherinops affinis,topsmelt silverside,native,2.0,36.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Atherinops affinis,topsmelt silverside,native,3.0,52.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Atherinops affinis,topsmelt silverside,native,4.0,40.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Atherinops affinis,topsmelt silverside,native,5.0,42.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Atherinops affinis,topsmelt silverside,native,6.0,40.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Atherinops affinis,topsmelt silverside,native,7.0,37.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Atherinops affinis,topsmelt silverside,native,8.0,27.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Atherinops affinis,topsmelt silverside,native,9.0,46.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Atherinops affinis,topsmelt silverside,native,10.0,46.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Gasterosteus aculeatus,threespine stickleback,native,1.0,45.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Gasterosteus aculeatus,threespine stickleback,native,2.0,48.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Gasterosteus aculeatus,threespine stickleback,native,3.0,55.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Gasterosteus aculeatus,threespine stickleback,native,4.0,43.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Gasterosteus aculeatus,threespine stickleback,native,5.0,39.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Gasterosteus aculeatus,threespine stickleback,native,6.0,46.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Gasterosteus aculeatus,threespine stickleback,native,7.0,46.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Gasterosteus aculeatus,threespine stickleback,native,8.0,26.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Gasterosteus aculeatus,threespine stickleback,native,9.0,30.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Gasterosteus aculeatus,threespine stickleback,native,10.0,40.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Cottus asper,prickly sculpin,native,1.0,69.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,1,Acanthogobius flavimanus,yellowfin goby,invasive,1.0,145.0,,,Large,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,1.0,84.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,2.0,32.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,3.0,45.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,4.0,34.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,5.0,60.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,6.0,50.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,7.0,39.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,8.0,58.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,9.0,39.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Atherinops affinis,topsmelt silverside,native,10.0,44.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Gasterosteus aculeatus,threespine stickleback,native,1.0,55.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Gasterosteus aculeatus,threespine stickleback,native,2.0,43.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Gasterosteus aculeatus,threespine stickleback,native,3.0,55.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Gasterosteus aculeatus,threespine stickleback,native,4.0,56.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Gasterosteus aculeatus,threespine stickleback,native,5.0,45.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Gasterosteus aculeatus,threespine stickleback,native,6.0,45.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Gasterosteus aculeatus,threespine stickleback,native,7.0,30.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Gasterosteus aculeatus,threespine stickleback,native,8.0,22.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Gasterosteus aculeatus,threespine stickleback,native,9.0,35.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,2,Gasterosteus aculeatus,threespine stickleback,native,10.0,40.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,1.0,35.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,2.0,63.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,3.0,42.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,4.0,37.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,5.0,38.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,6.0,48.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,7.0,34.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,8.0,35.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,9.0,74.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Atherinops affinis,topsmelt silverside,native,10.0,47.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,1.0,43.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,2.0,50.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,3.0,48.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,4.0,43.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,5.0,47.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,6.0,45.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,7.0,34.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,8.0,47.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,9.0,44.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Gasterosteus aculeatus,threespine stickleback,native,10.0,34.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Syngnathus sp.,pipefish,not recorded,1.0,154.0,,,Large,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Cottus asper,prickly sculpin,native,1.0,79.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Cottus asper,prickly sculpin,native,2.0,60.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Cottus asper,prickly sculpin,native,3.0,46.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Cottus asper,prickly sculpin,native,4.0,64.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Cottus asper,prickly sculpin,native,5.0,50.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Clevelandia ios,arrow goby,native,1.0,46.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Clevelandia ios,arrow goby,native,2.0,47.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Clevelandia ios,arrow goby,native,3.0,49.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Clevelandia ios,arrow goby,native,4.0,40.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Clevelandia ios,arrow goby,native,5.0,34.0,,,Small,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA,CC-MCS,Moro Cojo Slough,2,10/1/2024,beach seine,3,Gillichthys mirabilis,longjaw mudsucker goby,native,1.0,95.0,,,Medium,20.349999999999998,8.48,114.10000000000001,31.361666666666668,43784.166666666664
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,1,Pachygrapsus sp.,shore crab,,1.0,5.0,<1g,,Small,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,1,Pachygrapsus sp.,shore crab,,2.0,4.0,<1g,,Small,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,1,Pachygrapsus sp.,shore crab,,3.0,10.0,1g,,Small,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,1.0,61.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,2.0,52.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,3.0,57.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,4.0,58.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,5.0,66.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,6.0,85.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,7.0,69.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,8.0,61.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,9.0,65.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,10.0,58.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,1,Syngnathus leptorhynchus,bay pipefish,native,1.0,172.0,,,Large,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,1,Syngnathus leptorhynchus,bay pipefish,native,2.0,174.0,,,Large,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,1,Clevelandia ios,arrow goby,native,1.0,31.0,,,Small,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,2,Syngnathus leptorhynchus,bay pipefish,native,1.0,210.0,,,Large,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,2,Syngnathus leptorhynchus,bay pipefish,native,2.0,214.0,,,Large,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,1.0,62.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,2.0,65.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,3.0,52.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,4.0,45.0,,,Small,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,5.0,46.0,,,Small,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,6.0,56.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,7.0,60.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,8.0,59.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,9.0,44.0,,,Small,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,10.0,48.0,,,Small,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,2,Clevelandia ios,arrow goby,native,1.0,36.0,,,Small,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,2,Clevelandia ios,arrow goby,native,2.0,38.0,,,Small,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,2,Clevelandia ios,arrow goby,native,3.0,34.0,,,Small,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,2,Clevelandia ios,arrow goby,native,4.0,39.0,,,Small,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,1.0,62.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,2.0,69.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,3.0,70.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,4.0,73.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,5.0,66.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,6.0,75.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,7.0,71.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,8.0,50.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,9.0,59.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,1,10/17/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,10.0,55.0,,,Medium,15.885714285714286,7.191428571428571,87.67142857142858,29.34714285714286,36845.857142857145
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Engraulis mordax,Californian anchovy,native,1.0,70.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Engraulis mordax,Californian anchovy,native,2.0,63.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,1.0,24.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,2.0,27.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,3.0,30.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,4.0,22.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,5.0,29.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,6.0,22.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,7.0,26.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,8.0,28.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,9.0,29.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,10.0,28.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,1.0,32.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,2.0,37.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,3.0,51.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,4.0,44.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,5.0,46.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,6.0,38.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,7.0,33.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,8.0,45.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,9.0,46.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,10.0,35.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Syngnathus leptorhynchus,bay pipefish,native,1.0,49.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Syngnathus leptorhynchus,bay pipefish,native,2.0,93.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Gasterosteus aculeatus,threespine stickleback,native,1.0,27.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Clevelandia ios,arrow goby,native,1.0,35.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Clevelandia ios,arrow goby,native,2.0,37.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Clevelandia ios,arrow goby,native,3.0,34.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Clevelandia ios,arrow goby,native,4.0,33.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,1,Clevelandia ios,arrow goby,native,5.0,28.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,1.0,54.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,2.0,37.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,3.0,34.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,4.0,39.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,5.0,27.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,6.0,37.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,7.0,41.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,8.0,31.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,9.0,34.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,10.0,42.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Fundulus parvipinnis,California killifish,native,1.0,39.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Fundulus parvipinnis,California killifish,native,2.0,36.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Fundulus parvipinnis,California killifish,native,3.0,38.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Fundulus parvipinnis,California killifish,native,4.0,40.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Fundulus parvipinnis,California killifish,native,5.0,37.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Fundulus parvipinnis,California killifish,native,6.0,41.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Fundulus parvipinnis,California killifish,native,7.0,52.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Fundulus parvipinnis,California killifish,native,8.0,48.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Fundulus parvipinnis,California killifish,native,9.0,43.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Fundulus parvipinnis,California killifish,native,10.0,34.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Syngnathus leptorhynchus,bay pipefish,native,1.0,75.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Syngnathus leptorhynchus,bay pipefish,native,2.0,136.0,,,Large,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Syngnathus leptorhynchus,bay pipefish,native,3.0,63.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Syngnathus leptorhynchus,bay pipefish,native,4.0,147.0,,,Large,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Engraulis mordax,Californian anchovy,native,1.0,64.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Engraulis mordax,Californian anchovy,native,2.0,66.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Engraulis mordax,Californian anchovy,native,3.0,65.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Clevelandia ios,arrow goby,native,1.0,38.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Clevelandia ios,arrow goby,native,2.0,31.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Clevelandia ios,arrow goby,native,3.0,22.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Clevelandia ios,arrow goby,native,4.0,35.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Clevelandia ios,arrow goby,native,5.0,26.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Clevelandia ios,arrow goby,native,6.0,32.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Clevelandia ios,arrow goby,native,7.0,31.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Clevelandia ios,arrow goby,native,8.0,27.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Clevelandia ios,arrow goby,native,9.0,31.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Clevelandia ios,arrow goby,native,10.0,26.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Mugil cephalus,striped mullet,native,1.0,71.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,2,Leptocottus armatus,Pacific staghorn sculpin,native,1.0,114.0,,,Large,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,1.0,58.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,2.0,56.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,3.0,52.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,4.0,86.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,5.0,60.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,6.0,47.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,7.0,49.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,8.0,56.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,9.0,57.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,10.0,39.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,1.0,39.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,2.0,52.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,3.0,55.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,4.0,47.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,5.0,57.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,6.0,53.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,7.0,67.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,8.0,57.0,,,Medium,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,9.0,48.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,10.0,36.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Pachygrapsus sp.,shore crab,,1.0,26.0,7g,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Clevelandia ios,arrow goby,native,1.0,33.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,2,10/15/2024,beach seine ,3,Clevelandia ios,arrow goby,native,2.0,31.0,,,Small,17.9,12.257,80.4,28.598000000000003,37787.9
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,1.0,82.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,2.0,29.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,3.0,188.0,,,Large,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,4.0,104.0,,,Large,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,5.0,77.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,6.0,73.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,7.0,66.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,8.0,72.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,9.0,89.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Atherinops affinis,topsmelt silverside,native,10.0,37.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,1.0,33.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,2.0,46.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,3.0,49.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,4.0,62.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,5.0,54.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,6.0,49.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,7.0,46.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,8.0,53.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,9.0,57.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,1,Fundulus parvipinnis,California killifish,native,10.0,44.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,1.0,176.0,,,Large,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,2.0,109.0,,,Large,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,3.0,31.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,4.0,32.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,5.0,27.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,6.0,63.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,7.0,36.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,2,Atherinops affinis,topsmelt silverside,native,8.0,37.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,2,Engraulis mordax,Californian anchovy,native,1.0,72.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,2,Engraulis mordax,Californian anchovy,native,2.0,46.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,2,Engraulis mordax,Californian anchovy,native,3.0,68.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,2,Clevelandia ios,arrow goby,native,1.0,47.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,2,Clevelandia ios,arrow goby,native,2.0,39.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,2,Clevelandia ios,arrow goby,native,3.0,34.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,1.0,84.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,2.0,33.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,3.0,107.0,,,Large,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,4.0,97.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,5.0,35.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,6.0,37.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,7.0,33.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,8.0,37.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,9.0,31.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Atherinops affinis,topsmelt silverside,native,10.0,43.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Engraulis mordax,Californian anchovy,native,1.0,51.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,1.0,48.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,2.0,53.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,3.0,51.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,4.0,48.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,5.0,43.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,6.0,56.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,7.0,54.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,8.0,42.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,9.0,52.0,,,Medium,19.25,6.24,78.225,23.3425,32353.0
+EMPA ,CC-MOR,Morro Bay,3,10/16/2024,beach seine ,3,Fundulus parvipinnis,California killifish,native,10.0,43.0,,,Small,19.25,6.24,78.225,23.3425,32353.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,1.0,56.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,2.0,62.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,3.0,37.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,4.0,67.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,5.0,58.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,6.0,56.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,7.0,49.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,8.0,73.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,9.0,65.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,10.0,63.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,1.0,42.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,1.0,76.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,2.0,47.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,3.0,59.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,4.0,76.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,5.0,62.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,6.0,76.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,7.0,75.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,8.0,66.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,9.0,56.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,10.0,69.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,2,Clevelandia ios,arrow goby,Native,1.0,32.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,2,Clevelandia ios,arrow goby,Native,2.0,39.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,2,Clevelandia ios,arrow goby,Native,3.0,42.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,3,Clevelandia ios,arrow goby,Native,1.0,37.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,3,Clevelandia ios,arrow goby,Native,2.0,36.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,3,Clevelandia ios,arrow goby,Native,3.0,28.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,3,Clevelandia ios,arrow goby,Native,4.0,39.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,3,Clevelandia ios,arrow goby,Native,5.0,23.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,3,Clevelandia ios,arrow goby,Native,6.0,41.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,3,Clevelandia ios,arrow goby,Native,7.0,35.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,3,Clevelandia ios,arrow goby,Native,8.0,37.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,3,Clevelandia ios,arrow goby,Native,9.0,34.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,3,Clevelandia ios,arrow goby,Native,10.0,27.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,1,10/7/2024,Beach seine,3,Metacarcinus magister,dungeness crab,Native,1.0,20.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,1.0,57.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,2.0,59.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,3.0,60.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,4.0,49.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,5.0,59.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,6.0,57.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,7.0,51.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,8.0,55.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,9.0,63.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,10.0,59.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,1.0,37.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,2.0,34.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,3.0,38.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,4.0,37.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,5.0,43.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,6.0,31.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,7.0,36.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,8.0,37.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,9.0,38.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,10.0,36.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Hemigrapsus oregonensis,yellow shore crab,Native,1.0,29.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Hemigrapsus oregonensis,yellow shore crab,Native,2.0,25.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Hemigrapsus oregonensis,yellow shore crab,Native,3.0,26.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Hemigrapsus oregonensis,yellow shore crab,Native,4.0,20.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Hemigrapsus oregonensis,yellow shore crab,Native,5.0,28.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,1,Hemigrapsus oregonensis,yellow shore crab,Native,6.0,26.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,1.0,64.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,2.0,61.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,3.0,56.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,4.0,43.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,5.0,46.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,6.0,66.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,7.0,48.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,8.0,64.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,9.0,67.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,10.0,59.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,2,Clevelandia ios,arrow goby,Native,1.0,44.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,1.0,52.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,2.0,60.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,3.0,53.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,4.0,53.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,5.0,52.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,6.0,56.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,7.0,43.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,8.0,55.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,9.0,55.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,10.0,56.0,,,Medium,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Gasterosteus aculeatus,threespine stickleback,Native,1.0,21.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Hemigrapsus oregonensis,yellow shore crab,Native,1.0,28.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Hemigrapsus oregonensis,yellow shore crab,Native,2.0,26.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Hemigrapsus oregonensis,yellow shore crab,Native,3.0,21.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Hemigrapsus oregonensis,yellow shore crab,Native,4.0,29.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Hemigrapsus oregonensis,yellow shore crab,Native,5.0,32.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Hemigrapsus oregonensis,yellow shore crab,Native,6.0,24.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Hemigrapsus oregonensis,yellow shore crab,Native,7.0,28.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Hemigrapsus oregonensis,yellow shore crab,Native,8.0,24.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Hemigrapsus oregonensis,yellow shore crab,Native,9.0,25.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,2,10/7/2024,Beach seine,3,Hemigrapsus oregonensis,yellow shore crab,Native,10.0,21.0,,,Small,17.245454545454546,9.057272727272727,114.71818181818183,32.61,42379.0
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,1.0,34.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,2.0,36.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,3.0,34.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,4.0,43.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,5.0,31.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,6.0,36.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,7.0,35.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,8.0,37.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,9.0,39.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Clevelandia ios,arrow goby,Native,10.0,33.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,1.0,98.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,2.0,44.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Atherinops affinis,topsmelt silverside,Native,3.0,98.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Syngnathus leptorhynchus,bay pipefish,Native,1.0,96.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Syngnathus leptorhynchus,bay pipefish,Native,2.0,49.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Syngnathus leptorhynchus,bay pipefish,Native,3.0,134.0,,,Large,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Platichthys stellatus,starry flounder,Native,1.0,127.0,,,Large,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,leptocottus armatus,Pacific staghorn sculpin ,Native,1.0,94.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Metacarcinus magister,dungeness crab,Native,2.0,30.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Metacarcinus magister,dungeness crab,Native,3.0,90.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Metacarcinus magister,dungeness crab,Native,4.0,70.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Metacarcinus magister,dungeness crab,Native,5.0,29.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Hemigrapsus oregonensis,yellow shore crab,Native,1.0,33.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Hemigrapsus oregonensis,yellow shore crab,Native,2.0,30.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Hemigrapsus oregonensis,yellow shore crab,Native,3.0,29.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Hemigrapsus oregonensis,yellow shore crab,Native,4.0,29.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Hemigrapsus oregonensis,yellow shore crab,Native,5.0,26.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Hemigrapsus oregonensis,yellow shore crab,Native,6.0,25.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Hemigrapsus oregonensis,yellow shore crab,Native,7.0,27.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Hemigrapsus oregonensis,yellow shore crab,Native,8.0,24.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Hemigrapsus oregonensis,yellow shore crab,Native,9.0,29.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,1,Hemigrapsus oregonensis,yellow shore crab,Native,10.0,23.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Clevelandia ios,arrow goby,Native,1.0,46.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Clevelandia ios,arrow goby,Native,2.0,46.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Clevelandia ios,arrow goby,Native,3.0,39.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Clevelandia ios,arrow goby,Native,4.0,44.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Clevelandia ios,arrow goby,Native,5.0,46.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Clevelandia ios,arrow goby,Native,6.0,37.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Clevelandia ios,arrow goby,Native,7.0,45.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Clevelandia ios,arrow goby,Native,8.0,35.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Clevelandia ios,arrow goby,Native,9.0,44.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Clevelandia ios,arrow goby,Native,10.0,47.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,leptocottus armatus,Pacific staghorn sculpin ,Native,1.0,30.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,leptocottus armatus,Pacific staghorn sculpin ,Native,2.0,27.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,leptocottus armatus,Pacific staghorn sculpin ,Native,3.0,95.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,leptocottus armatus,Pacific staghorn sculpin ,Native,4.0,75.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,leptocottus armatus,Pacific staghorn sculpin ,Native,5.0,89.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,1.0,57.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,2.0,48.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,3.0,50.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,4.0,56.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,5.0,50.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,6.0,51.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Atherinops affinis,topsmelt silverside,Native,7.0,47.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Syngnathus leptorhynchus,bay pipefish,Native,1.0,169.0,,,Large,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Syngnathus leptorhynchus,bay pipefish,Native,2.0,157.0,,,Large,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Platichthys stellatus,starry flounder,Native,1.0,142.0,,,Large,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Citharichthys stigmaeus,speckled sanddab,Native,1.0,16.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Citharichthys stigmaeus,speckled sanddab,Native,2.0,27.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Acanthogobius flavimanus,yellowfin goby,invasive ,1.0,132.0,,,Large,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Metacarcinus magister,dungeness crab,Native,1.0,66.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Metacarcinus magister,dungeness crab,Native,2.0,149.0,,,Large,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Metacarcinus magister,dungeness crab,Native,3.0,94.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Metacarcinus magister,dungeness crab,Native,4.0,90.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Metacarcinus magister,dungeness crab,Native,5.0,95.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Metacarcinus magister,dungeness crab,Native,6.0,89.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Metacarcinus magister,dungeness crab,Native,7.0,105.0,,,Large,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Metacarcinus magister,dungeness crab,Native,8.0,83.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Metacarcinus magister,dungeness crab,Native,9.0,81.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Metacarcinus magister,dungeness crab,Native,10.0,75.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Hemigrapsus oregonensis,yellow shore crab,Native,1.0,29.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Hemigrapsus oregonensis,yellow shore crab,Native,2.0,30.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Hemigrapsus oregonensis,yellow shore crab,Native,3.0,20.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Hemigrapsus oregonensis,yellow shore crab,Native,4.0,32.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Hemigrapsus oregonensis,yellow shore crab,Native,5.0,24.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Hemigrapsus oregonensis,yellow shore crab,Native,6.0,28.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Hemigrapsus oregonensis,yellow shore crab,Native,7.0,28.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Hemigrapsus oregonensis,yellow shore crab,Native,8.0,31.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Hemigrapsus oregonensis,yellow shore crab,Native,9.0,19.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,2,Hemigrapsus oregonensis,yellow shore crab,Native,10.0,18.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,1.0,95.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,2.0,83.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,3.0,79.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,4.0,71.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,5.0,89.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,6.0,100.0,,,Large,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,7.0,72.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,8.0,85.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,9.0,84.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,3,Atherinops affinis,topsmelt silverside,Native,10.0,75.0,,,Medium,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,3,Clevelandia ios,arrow goby,Native,1.0,43.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,3,Clevelandia ios,arrow goby,Native,2.0,22.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
+EMPA,CC-PAJ,Pajaro River,3,10/8/2024,Beach seine,3,Hemigrapsus oregonensis,yellow shore crab,Native,1.0,16.0,,,Small,17.566666666666666,9.801666666666668,121.89999999999999,30.88,40634.833333333336
